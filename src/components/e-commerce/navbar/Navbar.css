@@ -1,0 +1,23 @@
+nav{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    background-color: darkcyan;
+    padding: 10px 20px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 2px rgb(116, 116, 116);
+}
+.banner
+{
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+.cart-layout
+{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
